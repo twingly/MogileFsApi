@@ -1,5 +1,7 @@
 MogileFsApi is a C# API for MogileFs (see http://danga.com/mogilefs/ and http://code.google.com/p/mogilefs/).
 
+Author: Hugo Hallqvist <hugo@twingly.com>
+
 License
 =======
 Copyright 2010 Twingly AB. MogileFsApi is provided under the three-clause
